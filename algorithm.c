@@ -1340,7 +1340,6 @@ static const char *lookup_algorithm_alias(const char *lookup_alias, uint8_t *nfa
   ALGO_ALIAS_NF("adaptive-nscrypt", "ckolivas", 11);
   ALGO_ALIAS_NF("adaptive-n-scrypt", "ckolivas", 11);
   ALGO_ALIAS("c11", "chaincoin-mod");
-  ALGO_ALIAS("chaincoin", "chaincoin-mod");
   ALGO_ALIAS("x11mod", "darkcoin-mod");
   ALGO_ALIAS("x11", "darkcoin-mod");
   ALGO_ALIAS("x11-gost", "sibcoin-mod");
